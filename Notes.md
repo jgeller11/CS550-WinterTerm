@@ -9,3 +9,5 @@ By creating a pull request, you can request an admins permission to commit a fil
 In the desktop app, you can manage files locally on your computer, and in doing so you can edit code in a text editor of your choice, rather than the lacking editor on the GitHub site.
 
 Once you have reached a verson of the code you want to save, save the file locally to the repository, then click "fetch origin," commit it to the branch, and push it to the online repository.
+
+Now you're ready to use github!
